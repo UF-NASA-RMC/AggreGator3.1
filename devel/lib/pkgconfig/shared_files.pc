@@ -1,0 +1,8 @@
+prefix=/home/odroid/AggreGator3.1/devel
+
+Name: shared_files
+Description: Description of shared_files
+Version: 0.0.0
+Cflags: -I/home/odroid/AggreGator3.1/devel/include
+Libs: -L/home/odroid/AggreGator3.1/devel/lib 
+Requires: message_generation message_runtime roscpp rospy std_msgs

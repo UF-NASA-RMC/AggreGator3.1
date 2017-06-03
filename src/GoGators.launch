@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!--xml file for roslaunch
+	This will launch nodes meant to run on the Odroid
+-->
+
+<launch>
+	
+	<!--Robot Controller nodes-->
+	<node name="robot_control_node" pkg="robot_control" type="robot_control_node"/>
+</launch>
+

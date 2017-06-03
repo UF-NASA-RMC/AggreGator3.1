@@ -1,0 +1,2 @@
+robot_control:shared_files
+-DCATKIN_DEVEL_PREFIX=/home/odroid/AggreGator3.1/devel -DCMAKE_INSTALL_PREFIX=/home/odroid/AggreGator3.1/install -G Unix Makefiles
